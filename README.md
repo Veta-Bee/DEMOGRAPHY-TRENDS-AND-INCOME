@@ -90,3 +90,6 @@ Occupations such as "Exec-managerial" and "Craft-repair" exhibit notably higher 
 
 Observation 5: Geographic Income Disparity
 Individuals from the United States dominate the dataset and generally earn more compared to those from other native countries presented. This may be attributed to more consistent employment opportunities and better overall job access within the U.S. market. To gain a global perspective and inform broader policy, it's recommended to conduct a comparative analysis with data from other countries to assess international income inequality and use these findings to inform targeted policy development aimed at improving job access and stability worldwide.
+
+
+FOR MORE ENQUIRES: https://drive.google.com/drive/folders/1Se_4-1SxJTgPsZiB9a8Z2QhnCjeIP6np?usp=sharing
