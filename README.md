@@ -2,6 +2,7 @@
 <img width="1519" height="696" alt="Screenshot 2025-07-03 123523" src="https://github.com/user-attachments/assets/fb0a02f3-ad69-4df6-8e88-7bb8b0993099" />
 
 Technical Report: Unveiling Socio-Economic Patterns
+
 1. Introduction: The Data's Story
 This report delves into a rich dataset designed to illuminate the intricate relationship between demographic factors and income generation. By exploring variables such as age, education, occupation, and marital status, we uncover key patterns of economic disparity, educational influence, and workforce dynamics. Our goal is to provide clear insights into who earns what, and why, empowering various stakeholders with actionable knowledge.
 
@@ -28,6 +29,7 @@ Target (Dependent Variable):
 
 Generated Income
 
+
 3. Who Benefits from These Insights?
 This analysis is designed to serve a diverse group of stakeholders, ensuring the data translates into meaningful real-world impact:
 
@@ -41,7 +43,9 @@ Data Analysts & Researchers: For deeper academic and practical explorations of s
 
 Job Seekers & Career Coaches: To guide individuals in making informed career and educational choices.
 
+
 4. What Success Looks Like
+   
 For our stakeholders, success means:
 
 Policy Makers: Crafting effective policies that lead to a more equitable distribution of income and improved educational opportunities for all.
@@ -51,6 +55,7 @@ Employers: Creating workplaces where compensation is fair, transparent, and attr
 Educators: Designing learning paths that directly equip individuals with skills for higher earning potential.
 
 Individuals: Having the knowledge to navigate career decisions and educational investments wisely, leading to better financial outcomes.
+
 
 5. Unpacking the Insights: Key Questions & Dashboard Answers
 Our dashboards effectively visualize answers to critical socio-economic questions:
@@ -66,6 +71,7 @@ Marital Status & Income Gap: The "Average Capital Gain by marital-status" pie ch
 Working Hours & Income: The "Average Hours Worked Per Week by Age Bracket" chart, coupled with income figures, helps assess if working hours strongly predict income levels across various age groups.
 
 Income by Native Country: The "Average Generated Income by Native-Country" bar chart showcases income variations across different native countries.
+
 
 6. Key Observations, Explanations, and Recommendations
 Drawing directly from the visual evidence in the dashboards, here are the core findings and practical suggestions presented in a more narrative format:
